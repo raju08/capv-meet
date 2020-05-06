@@ -1,5 +1,5 @@
 // @flow
 
-import { getLogger } from '../base/logging/functions';
+import { getLogger } from '../logging/functions';
 
-export default getLogger('features/app');
+export default getLogger('features/base/app');
